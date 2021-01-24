@@ -1,4 +1,4 @@
-# # Análise de preços de casas
+# Análise de preços de casas
 
 A análise exploratória dos dados está sendo feita com base no curso [Python do Zero ao DS](https://www.youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG), ministrado pelo cientista de dados [Meigarom Lopes](https://br.linkedin.com/in/meigarom).
 

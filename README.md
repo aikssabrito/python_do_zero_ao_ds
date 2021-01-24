@@ -1,11 +1,12 @@
 # Análise de preços de casas
 
-A análise exploratória dos dados está sendo feita com base no curso [Python do Zero ao DS](https://www.youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG), ministrado pelo cientista de dados [Meigarom Lopes](https://br.linkedin.com/in/meigarom).
+A análise exploratória dos dados está sendo feita com base no curso [Python do Zero ao DS](https://www.youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG), ministrado pelo cientista de dados [Meigarom Lopes](https://www.instagram.com/meigarom.datascience/).
 
 Os dados podem ser encontrados [neste link](https://www.kaggle.com/harlfoxem/housesalesprediction) e dizem respeito aos preços das casas de King County nos Estados Unidos entre os anos de 2014 e 2015.
 
-<p><center><img width=500 src="https://image.freepik.com/vetores-gratis/agencia-imobiliaria-fluxograma-isometrico-e-clientes-casas-para-venda-e-aluguel-de-ilustracao-vetorial_1284-30401.jpg"></center>
-<small><center><a href="https://br.freepik.com/vetores/projeto">Projeto vetor criado por macrovector - br.freepik.com</a></center></small></p>
+<p align="center"><img width=500 src="https://image.freepik.com/vetores-gratis/agencia-imobiliaria-fluxograma-isometrico-e-clientes-casas-para-venda-e-aluguel-de-ilustracao-vetorial_1284-30401.jpg">
+<sub><a href="https://br.freepik.com/vetores/projeto">Projeto vetor criado por macrovector - br.freepik.com</a></sub>
+</p>
 
 ## Problema de negócio
 

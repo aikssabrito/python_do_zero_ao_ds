@@ -4,9 +4,8 @@ A análise exploratória dos dados está sendo feita com base no curso [Python d
 
 Os dados podem ser encontrados [neste link](https://www.kaggle.com/harlfoxem/housesalesprediction) e dizem respeito aos preços das casas de King County nos Estados Unidos entre os anos de 2014 e 2015.
 
-<p align="center"><img width=500 src="https://image.freepik.com/vetores-gratis/agencia-imobiliaria-fluxograma-isometrico-e-clientes-casas-para-venda-e-aluguel-de-ilustracao-vetorial_1284-30401.jpg">
-<sub><a href="https://br.freepik.com/vetores/projeto">Projeto vetor criado por macrovector - br.freepik.com</a></sub>
-</p>
+<p><center><img width=500 src="https://image.freepik.com/vetores-gratis/agencia-imobiliaria-fluxograma-isometrico-e-clientes-casas-para-venda-e-aluguel-de-ilustracao-vetorial_1284-30401.jpg"></center>
+<small><center><a href="https://br.freepik.com/vetores/projeto">Projeto vetor criado por macrovector - br.freepik.com</a></center></small></p>
 
 ## Problema de negócio
 
